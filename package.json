@@ -1,0 +1,24 @@
+{
+  "name": "jsvalidator-tools",
+  "version": "1.0.0",
+  "description": "The best data validation package.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterJavascriptgit/validator.git"
+  },
+  "keywords": [
+    "js",
+    "validator"
+  ],
+  "author": "master js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterJavascriptgit/validator/issues"
+  },
+  "homepage": "https://github.com/masterJavascriptgit/validator#readme"
+}
