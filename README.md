@@ -12,3 +12,12 @@ To install the package
   npm install jsvalidator-tools
 ```
 
+
+## Usage/Examples
+
+```javascript
+var { validator } = require('jsvalidator-tools');
+
+
+validator.isEmail("Example#@34") // false
+validator.isEmail("Example@gmail.com") // true
